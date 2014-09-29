@@ -1,0 +1,139 @@
+﻿body {
+    width: 100%;
+    background-image: url("http://www.unsigneddesign.com/Seamless_background_textures/1200px/seamlesstexture2_1200.jpg");
+}
+h1 {
+    width: 100%;
+    padding: 25px;
+    text-align: center;
+    font-family: Calibri;
+    font-weight: lighter;
+    color: #F3843E;
+    font-size: 72px;
+}
+.title {
+    font-family: Forte;
+}
+h2 {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    padding: 15px;
+    border: 5px dotted #F3843E;
+    margin-left: -15px;
+}
+h3 {
+    padding-top: 45px;
+    font-size: 26px;
+    color: #E6E6E6;
+}
+h4 {
+    font-size: 26px;
+    color: #E6E6E6;
+}
+form {
+    text-align: center;
+}
+button[type=submit] {
+    width: 40%;
+    font-size: 26px;
+    font-weight: bold;
+    color: #E6E6E6;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background: -webkit-linear-gradient(bottom right, #FF5A09 , #F3843E); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(top left, #FF5A09, #F3843E); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(top left, #FF5A09, #F3843E); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to top left, #FF5A09, #F3843E); /* Standard syntax */
+}
+#header {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#body {
+    width: 90%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#footer {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container {
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.para {
+    font-family: Calibri;
+    font-size: 24px;
+    color: #E6E6E6;
+}
+
+input[type=number] {
+    width: 25px;
+}
+input[type=checkbox], input[type=radio]  {
+    width: 20px;
+    height: 20px;
+}
+.col1 {
+    width: 100%;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 5px;
+    border-color: darkgray;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.col3 {
+    display: inline-block;
+    width: 49%;
+    border-style: solid;
+    border-width: thin;
+    border-radius: 5px;
+    border-color: darkgray;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+.input {
+    padding-left: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+hr.dotted {
+    margin-top: -50px;
+    border: 5px dotted #F3843E;
+}
+@media screen and (max-width: 991px) {
+    .col3 {
+        min-height: 225px;
+    }
+}
+@media (max-width: 767px) {
+    h4 {
+        font-size: 20px;
+    }
+    .input {
+        padding-left: 20%;
+    }
+    .col3 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 10px;
+    }
+
+}

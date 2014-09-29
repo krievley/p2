@@ -1,0 +1,5 @@
+C:\xampp\htdocs\xampp\p2\p2\bin\p2.dll
+C:\xampp\htdocs\xampp\p2\p2\bin\p2.pdb
+C:\xampp\htdocs\xampp\p2\p2\obj\Debug\p2.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\xampp\p2\p2\obj\Debug\p2.dll
+C:\xampp\htdocs\xampp\p2\p2\obj\Debug\p2.pdb
