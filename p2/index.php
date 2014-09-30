@@ -18,7 +18,7 @@
     </div>
     <div id="body">
         <div class="container">
-            <form onsubmit="generator.php">
+            <form action="generator.php" method="post">
                 <h3>Password Specifications</h3>
                 <div class="col1">
                     <div class="para">Number of words: <input name="words" type="number" min="1" max="9" required="required" /> (Max 9)</div>
