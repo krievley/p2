@@ -60,7 +60,7 @@
     <Content Include="css\default.css" />
     <Content Include="css\normalize.css" />
     <Content Include="Images\seamlesstexture2_1200.jpg" />
-    <Content Include="index.html" />
+    <None Include="index.php" />
     <Content Include="packages.config" />
     <None Include="Scripts\jquery-2.1.1.intellisense.js" />
     <Content Include="Scripts\default.js" />
