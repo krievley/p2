@@ -7,7 +7,7 @@
     <link href="css/normalize.css" rel="stylesheet" />
     <script src="Scripts/jquery-2.1.1.js"></script>
     <script src="Scripts/default.js"></script>
-    <link rel="shortcut icon" type="image/x-icon" href="Images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="Images/favicon.ico" />
     <link rel="apple-touch-icon" href="Images/favicon.ico"/>
 </head>
 <body>

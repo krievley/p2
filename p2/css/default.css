@@ -82,7 +82,7 @@ button[type=submit] {
 }
 
 input[type=number] {
-    width: 25px;
+    width: 45px;
 }
 input[type=checkbox], input[type=radio]  {
     width: 20px;
