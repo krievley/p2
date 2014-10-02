@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="css\default.css" />
     <Content Include="css\normalize.css" />
+    <Content Include="Images\favicon.ico" />
     <Content Include="Images\seamlesstexture2_1200.jpg" />
     <None Include="index.php" />
     <Content Include="packages.config" />

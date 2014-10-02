@@ -1,13 +1,14 @@
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>p2 - CSCI E-15</title>
+    <title>p2: CSCI E-25</title>
     <?php require 'generator.php'; ?>
     <link href="css/default.css" rel="stylesheet" />
     <link href="css/normalize.css" rel="stylesheet" />
     <script src="Scripts/jquery-2.1.1.js"></script>
     <script src="Scripts/default.js"></script>
-    
+    <link rel="shortcut icon" type="image/x-icon" href="Images/p1favicon.ico"/>
+    <link rel="apple-touch-icon" href="Images/p1favicon.ico"/>
 </head>
 <body>
     <div id="header">
