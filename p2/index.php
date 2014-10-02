@@ -18,7 +18,7 @@
     </div>
     <div id="body">
         <div class="container">
-            <form action="generator.php" method="post">
+            <form action="index.php" method="post">
                 <h3>Password Specifications</h3>
                 <div class="col1">
                     <div class="para">Number of words: <input name="words" type="number" min="1" max="9" required="required" /> (Max 9)</div>
@@ -55,7 +55,7 @@
                     </div>
                 </div>
                 <div id="pass" class="container">
-                    <h2><?=$result?></h2>
+                    <h2><?php echo $result?></h2>
                 </div>
                 <div class="container">
                     <button type="submit" name="submit">Generate Password</button>
